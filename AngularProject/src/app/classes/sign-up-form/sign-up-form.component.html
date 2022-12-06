@@ -1,0 +1,224 @@
+
+<div class="responsive">
+
+    <form [formGroup]="lf" class="from-Group" class="text-center border border-light p-5" (ngSubmit)="save()"
+        *ngIf="options!=null">
+        <h2 class="h4 mb-4" *ngIf="flag" style=" font-weight: bold">Sign up</h2>
+        <div>
+            <label for="name"> name</label><br>
+
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text" id="btnGroupAddon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+                        <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+                      </svg></div>
+                </div>
+                <input type="text" formControlName="name" name="name" id="name"
+                    class="form-control" placeholder="name" aria-label="Input group example"
+                    aria-describedby="btnGroupAddon">
+            </div>
+            <!-- <input formControlName="name" name="name" id="name" [(ngModel)]="st.Name" placeholder=" name 👥"> -->
+            <div  id="error" *ngIf="lf.controls['name']!.errors&&(lf.controls['name']!.dirty||lf.controls['name']!.touched)"
+                class="alert alert-danger">
+                <div [hidden]="!lf.controls['name']!.errors!.required">❗❗❗ חייב להזין שם </div>
+                <div [hidden]="!lf.controls['name']!.errors!.minlength">❗❗❗ חייב להיות באורך גדול מ2 תווים </div>
+
+            </div>
+
+        </div>
+
+
+        <div>
+            <label for="id"> id</label><br>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text" id="btnGroupAddon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-123" viewBox="0 0 16 16">
+  <path d="M2.873 11.297V4.142H1.699L0 5.379v1.137l1.64-1.18h.06v5.961h1.174Zm3.213-5.09v-.063c0-.618.44-1.169 1.196-1.169.676 0 1.174.44 1.174 1.106 0 .624-.42 1.101-.807 1.526L4.99 10.553v.744h4.78v-.99H6.643v-.069L8.41 8.252c.65-.724 1.237-1.332 1.237-2.27C9.646 4.849 8.723 4 7.308 4c-1.573 0-2.36 1.064-2.36 2.15v.057h1.138Zm6.559 1.883h.786c.823 0 1.374.481 1.379 1.179.01.707-.55 1.216-1.421 1.21-.77-.005-1.326-.419-1.379-.953h-1.095c.042 1.053.938 1.918 2.464 1.918 1.478 0 2.642-.839 2.62-2.144-.02-1.143-.922-1.651-1.551-1.714v-.063c.535-.09 1.347-.66 1.326-1.678-.026-1.053-.933-1.855-2.359-1.845-1.5.005-2.317.88-2.348 1.898h1.116c.032-.498.498-.944 1.206-.944.703 0 1.206.435 1.206 1.07.005.64-.504 1.106-1.2 1.106h-.75v.96Z"/>
+</svg></div>
+                </div>
+                <input type="text" formControlName="id" name="id" id="id" 
+                    class="form-control" placeholder="id" aria-label="Input group example"
+                    aria-describedby="btnGroupAddon">
+            </div>
+            <!-- <input formControlName="id" name="id" id="id" class="from-Control" [(ngModel)]="st.Id" placeholder=" id ♥"> -->
+
+            <div   id="error" *ngIf="lf.controls['id']!.errors&&(lf.controls['id']!.dirty||lf.controls['id']!.touched)"
+                class="alert alert-danger">
+                <div [hidden]="!lf.controls['id']!.errors!.required"> ❗❗❗חובה להזין תעודת זהות</div>
+                <div [hidden]="!lf.controls['id']!.errors!.min"> ❗❗❗חובה להזין תעודת זהות</div>
+                <div [hidden]="!lf.controls['id']!.errors!.minlength">❗❗❗חייב להיות באורך 9 תווים</div>
+                <div [hidden]="!lf.controls['id']!.errors!.maxlength">❗❗❗חייב להיות באורך 9 תווים</div>
+                <div [hidden]="!lf.controls['id']!.errors!.pattern">❗❗❗מספרים בלבד</div>
+            </div>
+        </div>   
+
+        <div>
+            <label for="phone"> phone</label><br>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text" id="btnGroupAddon">☎</div>
+                </div>
+                <input type="text" formControlName="phone" name="phone" id="phone" 
+                    class="form-control" placeholder="phone" aria-label="Input group example"
+                    aria-describedby="btnGroupAddon">
+            </div>
+            <!-- <input type="tel" formControlName="phone" name="phone" id="phone" class="from-Control" -->
+                <!-- placeholder=" phone ☎" [(ngModel)]="st.Phone"> -->
+            <div  id="error" *ngIf="lf.controls['phone']!.errors&&(lf.controls['phone']!.dirty||lf.controls['phone']!.touched)"
+                class="alert alert-danger">
+                <div [hidden]="!lf.controls['phone']!.errors!.required">❗❗❗חובה להזין מספר טלפון</div>
+                <div [hidden]="!lf.controls['phone']!.errors!.minlength">❗❗❗חייב להיות בעל 10 מספרים</div>
+                <div [hidden]="!lf.controls['phone']!.errors!.maxlength">❗❗❗חייב להיות בעל 10 מספרים</div>
+                <div [hidden]="!lf.controls['phone']!.errors!.pattern">❗❗❗מספרים בלבד</div>
+            </div>
+
+        </div>
+
+        <div>
+            <label for="address"> address</label><br>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text" id="btnGroupAddon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6zm5-.793V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z"/>
+                        <path fill-rule="evenodd" d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z"/>
+                      </svg></div>
+                </div>
+                <input type="text" formControlName="address" name="address" id="address" 
+                    class="form-control" placeholder="address" aria-label="Input group example"
+                    aria-describedby="btnGroupAddon">
+            </div>
+
+            <!-- <input formControlName="address" name="address" id="address" class="from-control" [(ngModel)]="st.Address"
+                placeholder=" address 🏘 "> -->
+            <div  id="error" *ngIf="lf.controls['address']!.errors&&(lf.controls['address']!.dirty||lf.controls['address']!.touched)"
+                class="alert alert-danger">
+                <div [hidden]="!lf.controls['address']!.errors!.required">❗❗❗חובה להזין כתובת</div>
+                <div [hidden]="!lf.controls['address']!.errors!.minlength">❗❗❗חייב להיות באורך גדול מ 4 תווים</div>
+
+            </div>
+        </div>
+
+        <div>
+            <label for="Email"> Email</label><br>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text" id="btnGroupAddon">@</div>
+                </div>
+                <input type="email" formControlName="Email" name="Email" id="Email" 
+                    class="form-control" placeholder="email" aria-label="Input group example"
+                    aria-describedby="btnGroupAddon">
+            </div>
+            <!-- <input type="email" formControlName="Email" name="Email" id="Email" [(ngModel)]="st.Email"
+                placeholder=" email @ "> -->
+            <div  id="error" *ngIf="lf.controls['Email']!.errors&&(lf.controls['Email']!.dirty||lf.controls['Email']!.touched)"
+                class="alert alert-danger">
+                <div [hidden]="!lf.controls['Email']!.errors!.email">❗❗❗המייל צריך להיות תקני</div>
+                <div [hidden]="!lf.controls['Email']!.errors!.required">❗❗❗חובה להזין כתובת מייל</div>
+            </div>
+        </div>
+
+        <div>
+            <label for="age"> age</label><br>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text" id="btnGroupAddon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-reddit" viewBox="0 0 16 16">
+                        <path d="M6.167 8a.831.831 0 0 0-.83.83c0 .459.372.84.83.831a.831.831 0 0 0 0-1.661zm1.843 3.647c.315 0 1.403-.038 1.976-.611a.232.232 0 0 0 0-.306.213.213 0 0 0-.306 0c-.353.363-1.126.487-1.67.487-.545 0-1.308-.124-1.671-.487a.213.213 0 0 0-.306 0 .213.213 0 0 0 0 .306c.564.563 1.652.61 1.977.61zm.992-2.807c0 .458.373.83.831.83.458 0 .83-.381.83-.83a.831.831 0 0 0-1.66 0z"/>
+                        <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.828-1.165c-.315 0-.602.124-.812.325-.801-.573-1.9-.945-3.121-.993l.534-2.501 1.738.372a.83.83 0 1 0 .83-.869.83.83 0 0 0-.744.468l-1.938-.41a.203.203 0 0 0-.153.028.186.186 0 0 0-.086.134l-.592 2.788c-1.24.038-2.358.41-3.17.992-.21-.2-.496-.324-.81-.324a1.163 1.163 0 0 0-.478 2.224c-.02.115-.029.23-.029.353 0 1.795 2.091 3.256 4.669 3.256 2.577 0 4.668-1.451 4.668-3.256 0-.114-.01-.238-.029-.353.401-.181.688-.592.688-1.069 0-.65-.525-1.165-1.165-1.165z"/>
+                      </svg></div>
+                </div>
+                <input type="text" formControlName="age" name="age" id="age" 
+                    class="form-control" placeholder="4-20" aria-label="Input group example"
+                    aria-describedby="btnGroupAddon">
+            </div>
+            <!-- <input formControlName="age" name="age" id="age" [(ngModel)]="st.Age" placeholder=" age"> -->
+            <div  id="error" *ngIf="lf.controls['age']!.errors&&(lf.controls['age']!.dirty||lf.controls['age']!.touched)"
+                class="alert alert-danger">
+                <div [hidden]="!lf.controls['age']!.errors!.min">❗❗❗הרישום מגיל 4 בלבד</div>
+                <div [hidden]="!lf.controls['age']!.errors!.max">❗❗❗הרישום עד גיל 20 בלבד</div>
+                <div [hidden]="!lf.controls['age']!.errors!.pattern">❗❗❗מספרים בלבד</div>
+                <div [hidden]="!lf.controls['age']!.errors!.required">❗❗❗חובה להזין גיל</div>
+            </div>
+        </div>
+
+
+        <div>
+
+            <label for="ClassCode"> חוג מבוקש</label><br>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text" id="btnGroupAddon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-easel" viewBox="0 0 16 16">
+                        <path d="M8 0a.5.5 0 0 1 .473.337L9.046 2H14a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-1.85l1.323 3.837a.5.5 0 1 1-.946.326L11.092 11H8.5v3a.5.5 0 0 1-1 0v-3H4.908l-1.435 4.163a.5.5 0 1 1-.946-.326L3.85 11H2a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h4.954L7.527.337A.5.5 0 0 1 8 0zM2 3v7h12V3H2z"/>
+                      </svg></div>
+                </div>
+            
+            
+            <select formControlName="ClassCode" name="ClassCode" id="ClassCode" (change)="getPrice() " class="form-control"  aria-label="Input group example"
+            aria-describedby="btnGroupAddon"
+                placeholder=" ClassName">
+                <option *ngFor="let x of myClasses" [value]="x.Code">{{x.Name}}</option>
+            </select>
+        </div>
+            <!-- <div>{{lf.get('ClassCode')?.value}} </div> -->
+            <!-- <div>{{classc?.Code}}</div> -->
+            <div  id="error" *ngIf="lf.controls['ClassCode']!.errors&&(lf.controls['ClassCode']!.dirty||lf.controls['ClassCode']!.touched)"
+                class="alert alert-danger">
+                <div [hidden]="!lf.controls['ClassCode']!.errors!.required">❗❗❗חובה לבחור חוג</div>
+
+
+            </div>
+
+        </div>
+
+
+        <div>
+            <label for="MonthNumber"> מספר חודשים</label><br>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text" id="btnGroupAddon">🗓</div>
+                </div>
+             
+           
+            <!-- <select><option *ngFor="let x of options" formControlName="MonthNumber" name="MonthNumber" id="MonthNumber" selected="x" >{{x}}</option></select> -->
+            <select formControlName="MonthNumber" name="MonthNumber" id="MonthNumber" (change)="getPrice()"
+               placeholder=" MonthNumber 🗓"  class="form-control" aria-label="Input group example"
+                aria-describedby="btnGroupAddon">
+                <option [value]="1">חודש</option>
+                <option [value]="3">חודשיים</option>
+                <option [value]="6">חצי שנה</option>
+                <option [value]="12">שנה</option>
+            </select> 
+        </div>
+            <div  id="error" *ngIf="lf.controls['MonthNumber']!.errors&&(lf.controls['MonthNumber']!.dirty||lf.controls['MonthNumber']!.touched)"
+                class="alert alert-danger">
+                <div [hidden]="!lf.controls['MonthNumber']!.errors!.required">❗❗❗חובה לבחור חוג</div>
+
+
+            </div>
+        </div>
+
+
+
+        <div>
+
+            <label for="Price" #temp appHl> Price </label><br>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text" id="btnGroupAddon"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-dollar" viewBox="0 0 16 16">
+                        <path d="M4 10.781c.148 1.667 1.513 2.85 3.591 3.003V15h1.043v-1.216c2.27-.179 3.678-1.438 3.678-3.3 0-1.59-.947-2.51-2.956-3.028l-.722-.187V3.467c1.122.11 1.879.714 2.07 1.616h1.47c-.166-1.6-1.54-2.748-3.54-2.875V1H7.591v1.233c-1.939.23-3.27 1.472-3.27 3.156 0 1.454.966 2.483 2.661 2.917l.61.162v4.031c-1.149-.17-1.94-.8-2.131-1.718H4zm3.391-3.836c-1.043-.263-1.6-.825-1.6-1.616 0-.944.704-1.641 1.8-1.828v3.495l-.2-.05zm1.591 1.872c1.287.323 1.852.859 1.852 1.769 0 1.097-.826 1.828-2.2 1.939V8.73l.348.086z"/>
+                      </svg></div>
+                </div>
+                <input type="text" formControlName="Price" name="Price" id="Price" 
+                    class="form-control" placeholder="Price" aria-label="Input group example"
+                    aria-describedby="btnGroupAddon">
+            </div>
+            <!-- <input formControlName="Price" name="Price" id="Price" [(ngModel)]="st.Price" appHl placeholder=" price"> -->
+        </div>
+
+        <br>
+        <button type="submit" class="btn btn-success" [disabled]="!lf.valid">להירשם </button>
+
+    </form>
+
+
+
+</div>

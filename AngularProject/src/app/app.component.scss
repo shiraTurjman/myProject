@@ -1,0 +1,41 @@
+main {
+
+   // background: url("https:https://mdbootstrap.com/img/Photos/Others/architecture.webp")no-repeat center center;
+  // background: linear-gradient(45deg, rgba(42, 27, 161, 0.6), rgba(73, 212, 187, 0.6) 100%);
+    background-size:100%;
+   // background-size:auto;
+   // height:100vh;
+  //  background-image: url("https://src/app/img/רקע.jpg")no-repeat center center;
+  background: linear-gradient(45deg, rgba(255, 255, 255, 0.986), rgba(83, 125, 225, 0.897) 100%);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+  
+
+// .nav {
+//     background-color: transparent;
+// }
+
+// .top-nav-collapse {
+//     background-color: #f382c4;
+// }
+
+// @media only screen and (max-width: 768px) {
+//     .nav {
+//         //background-color: #190391;
+//     }
+// }
+a{
+    color: #e02793 
+    ;font-size: 3ch;
+}
+a:active{
+    
+    border-style: double;
+    border-color: #f7aaca;
+}
+a:hover{
+    color: #544c51;
+    cursor: pointer;
+}
+

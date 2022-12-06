@@ -1,0 +1,72 @@
+<div class="text-center border border-light p-5">
+
+
+<div *ngIf="showd==false">
+  <p class="h4 mb-4">student list</p>
+  
+  <form class="example-form" class="text-center border border-light p-5" *ngIf="filteredOptions!=null">
+    <mat-form-field class="example-full-width" appearance="fill">
+      <div class="from-Control">
+
+        <mat-label>מיון לפי חוג :</mat-label><br>
+
+        <input type="text" matInput [formControl]="myControl" [matAutocomplete]="auto" placeholder="חוג"
+          (ngModelChange)="sortByClass($event)" [ngModel]="selectedValue" class="ui search dropdown">
+        <mat-autocomplete #auto="matAutocomplete" [displayWith]="displayFn">
+          <mat-option [value]="allClass">{{allClass.Name}}</mat-option>
+          <mat-option *ngFor="let option of filteredOptions | async" [value]="option" style="text-align: center;"
+            class="from-Control">
+            {{option.Name}}
+          </mat-option>
+        </mat-autocomplete>
+
+      </div>
+    </mat-form-field>
+  </form>
+  
+
+  <div class="table-responsive">
+    <table  class="table table-dark">
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Phone</th>
+        <th>Address</th>
+        <th>Email</th>
+        <th>Age</th>
+        <th>ClassName</th>
+        <th>MonthNumber</th>
+        <th>Price</th>
+
+
+      </tr>
+      <!-- *ngIf="Classes.value=={{item.ClassCode}}" -->
+
+      <tr *ngFor="let item of sortStudent ">
+        <!-- | async -->
+
+        <td>{{item.Id}}</td>
+        <td>{{item.Name}}</td>
+
+        <td>{{item.Phone}}</td>
+        <td>{{item.Address}}</td>
+        <td>{{item.Email}}</td>
+        <td>{{item.Age}}</td>
+        <td>{{item.ClassName}}</td>
+        <td>{{item.MonthNumber}}</td>
+        <td>{{item.Price}}</td>
+        <td><button (click)="update(item)" class="btn btn-outline-secondary">🖊 עריכה</button>
+        <td><button (click)="delete(item)" class="btn btn-outline-secondary">✖ מחיקה</button>
+        </td>
+
+      </tr>
+    </table>
+  </div>
+
+</div>
+<div *ngIf="showd">
+<h2>update</h2>
+<h3>שנה את הערכים שברצונך לעדכן </h3>
+<app-sign-up-form [st]=selectedI [flag]=false *ngIf="showd"  (onUpdate)="updete2()"></app-sign-up-form>
+</div>
+</div>
