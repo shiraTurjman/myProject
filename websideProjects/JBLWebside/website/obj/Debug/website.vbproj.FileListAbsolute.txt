@@ -1,0 +1,252 @@
+C:\Users\asus\source\repos\website\website\bin\website.dll.config
+C:\Users\asus\source\repos\website\website\bin\website.dll
+C:\Users\asus\source\repos\website\website\bin\website.pdb
+C:\Users\asus\source\repos\website\website\bin\website.xml
+C:\Users\asus\source\repos\website\website\bin\roslyn\csc.exe
+C:\Users\asus\source\repos\website\website\bin\roslyn\csc.exe.config
+C:\Users\asus\source\repos\website\website\bin\roslyn\csc.rsp
+C:\Users\asus\source\repos\website\website\bin\roslyn\csi.exe
+C:\Users\asus\source\repos\website\website\bin\roslyn\csi.exe.config
+C:\Users\asus\source\repos\website\website\bin\roslyn\csi.rsp
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\source\repos\website\website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.AppContext.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Console.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Net.Http.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\source\repos\website\website\bin\roslyn\vbc.exe
+C:\Users\asus\source\repos\website\website\bin\roslyn\vbc.exe.config
+C:\Users\asus\source\repos\website\website\bin\roslyn\vbc.rsp
+C:\Users\asus\source\repos\website\website\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\source\repos\website\website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\source\repos\website\website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\source\repos\website\website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\source\repos\website\website\obj\Debug\website.vbprojAssemblyReference.cache
+C:\Users\asus\source\repos\website\website\obj\Debug\website.Resources.resources
+C:\Users\asus\source\repos\website\website\obj\Debug\website.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\website\website\obj\Debug\website.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\website\website\obj\Debug\website.vbproj.CopyComplete
+C:\Users\asus\source\repos\website\website\obj\Debug\website.dll
+C:\Users\asus\source\repos\website\website\obj\Debug\website.xml
+C:\Users\asus\source\repos\website\website\obj\Debug\website.pdb
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\website.dll.config
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\website.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\website.pdb
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\website.xml
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\csc.exe
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\csc.exe.config
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\csc.rsp
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\csi.exe
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\csi.exe.config
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\csi.rsp
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.AppContext.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Console.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.IO.Compression.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Net.Http.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Net.Sockets.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.ValueTuple.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\vbc.exe
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\vbc.exe.config
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\vbc.rsp
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\VBCSCompiler.exe
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\obj\Debug\website.vbprojAssemblyReference.cache
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\obj\Debug\website.Resources.resources
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\obj\Debug\website.vbproj.GenerateResource.cache
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\obj\Debug\website.vbproj.CoreCompileInputs.cache
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\obj\Debug\website.vbproj.CopyComplete
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\obj\Debug\website.dll
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\obj\Debug\website.xml
+C:\Users\torge\Desktop\ויזואל\פרויקט JBL\website\website\obj\Debug\website.pdb
+C:\Users\asus\Downloads\website\website\bin\website.dll.config
+C:\Users\asus\Downloads\website\website\bin\website.dll
+C:\Users\asus\Downloads\website\website\bin\website.pdb
+C:\Users\asus\Downloads\website\website\bin\website.xml
+C:\Users\asus\Downloads\website\website\bin\roslyn\csc.exe
+C:\Users\asus\Downloads\website\website\bin\roslyn\csc.exe.config
+C:\Users\asus\Downloads\website\website\bin\roslyn\csc.rsp
+C:\Users\asus\Downloads\website\website\bin\roslyn\csi.exe
+C:\Users\asus\Downloads\website\website\bin\roslyn\csi.exe.config
+C:\Users\asus\Downloads\website\website\bin\roslyn\csi.rsp
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Downloads\website\website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.AppContext.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Console.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Net.Http.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\Downloads\website\website\bin\roslyn\vbc.exe
+C:\Users\asus\Downloads\website\website\bin\roslyn\vbc.exe.config
+C:\Users\asus\Downloads\website\website\bin\roslyn\vbc.rsp
+C:\Users\asus\Downloads\website\website\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Downloads\website\website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Downloads\website\website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Downloads\website\website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Downloads\website\website\obj\Debug\website.vbprojAssemblyReference.cache
+C:\Users\asus\Downloads\website\website\obj\Debug\website.Resources.resources
+C:\Users\asus\Downloads\website\website\obj\Debug\website.vbproj.GenerateResource.cache
+C:\Users\asus\Downloads\website\website\obj\Debug\website.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\website\website\obj\Debug\website.vbproj.CopyComplete
+C:\Users\asus\Downloads\website\website\obj\Debug\website.dll
+C:\Users\asus\Downloads\website\website\obj\Debug\website.xml
+C:\Users\asus\Downloads\website\website\obj\Debug\website.pdb
+C:\Users\torge\Desktop\ויזואל\website\website\bin\website.dll.config
+C:\Users\torge\Desktop\ויזואל\website\website\bin\website.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\website.pdb
+C:\Users\torge\Desktop\ויזואל\website\website\bin\website.xml
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\csc.exe
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\csc.exe.config
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\csc.rsp
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\csi.exe
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\csi.exe.config
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\csi.rsp
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.AppContext.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Console.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.IO.Compression.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Net.Http.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Net.Sockets.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.ValueTuple.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\vbc.exe
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\vbc.exe.config
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\vbc.rsp
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\VBCSCompiler.exe
+C:\Users\torge\Desktop\ויזואל\website\website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\torge\Desktop\ויזואל\website\website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\torge\Desktop\ויזואל\website\website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\torge\Desktop\ויזואל\website\website\obj\Debug\website.vbprojAssemblyReference.cache
+C:\Users\torge\Desktop\ויזואל\website\website\obj\Debug\website.Resources.resources
+C:\Users\torge\Desktop\ויזואל\website\website\obj\Debug\website.vbproj.GenerateResource.cache
+C:\Users\torge\Desktop\ויזואל\website\website\obj\Debug\website.vbproj.CoreCompileInputs.cache
+C:\Users\torge\Desktop\ויזואל\website\website\obj\Debug\website.vbproj.CopyComplete
+C:\Users\torge\Desktop\ויזואל\website\website\obj\Debug\website.dll
+C:\Users\torge\Desktop\ויזואל\website\website\obj\Debug\website.xml
+C:\Users\torge\Desktop\ויזואל\website\website\obj\Debug\website.pdb

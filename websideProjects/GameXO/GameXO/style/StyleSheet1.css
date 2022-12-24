@@ -1,0 +1,39 @@
+﻿body {
+    
+    text-align: center;
+    font: 400 25pt aharoni;
+    color: #cb085e;
+ /* background-image: url('../img/images.jpg');*/
+}
+div{
+    margin: auto;
+    font: 200 19pt aharoni;
+      background-color: #ffafd0;
+    padding: 20px 50px;
+    width: 60%;
+    border-radius: 50px;
+    border:2px solid #cb085e;
+}
+/*span {
+    display:none;
+
+}*/
+#mat{
+    
+    width:50%;
+}
+div img{
+    width:24%;
+    margin:1%;
+
+}
+
+button {
+    background-color: #ffafd0;
+    font: 200 19pt aharoni;
+}
+
+   h2{
+       
+       margin-top:0.1px;
+   }

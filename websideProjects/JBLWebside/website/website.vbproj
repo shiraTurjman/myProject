@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{68324801-61C7-4119-B17F-15BB4B633724}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>website</RootNamespace>
+    <AssemblyName>website</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44305</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>website.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>website.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="pages\aboutUs.html" />
+    <Content Include="pages\headPhones.html" />
+    <Content Include="pages\homePage.html" />
+    <Content Include="pages\sale.html" />
+    <Content Include="pages\shoppingCart.html" />
+    <Content Include="pages\signUp.html" />
+    <Content Include="pages\speakers.html" />
+    <Content Include="pictures\2021-01-17.png" />
+    <Content Include="pictures\C45BT_Hero-1605x1605px.jpg" />
+    <Content Include="pictures\eventlogError.ico" />
+    <Content Include="pictures\images %281%29.jpg" />
+    <Content Include="pictures\images %281%29.png" />
+    <Content Include="pictures\images.jpg" />
+    <Content Include="pictures\JBL_Go2_Hero_Midnight_Black-1605x1605px.png" />
+    <Content Include="pictures\speakers\11837_15092020141234_large.jpg" />
+    <Content Include="pictures\speakers\1823ffd116f4086751f3edfc76268956.jpg" />
+    <Content Include="pictures\speakers\4222_180920190956273_large.jpg" />
+    <Content Include="pictures\speakers\47834833c.gif" />
+    <Content Include="pictures\speakers\560X500_0_jpg.jpg" />
+    <Content Include="pictures\speakers\57674203c.gif" />
+    <Content Include="pictures\speakers\6925281927430_070720201158001.jpg" />
+    <Content Include="pictures\speakers\71h05dbbxwl._sy355_.jpg" />
+    <Content Include="pictures\speakers\93dcc5261fb9d1baedd5cf39fcd54c2f.jpg" />
+    <Content Include="pictures\speakers\a0da8920f6e606f17d3ce9dc9930e26e.jpg" />
+    <Content Include="pictures\speakers\CONTROLXWIRELESS_17062019165630_large.jpg" />
+    <Content Include="pictures\speakers\eaa7fb3a4bdb96d4fb03cb76338e4c7d.jpg" />
+    <Content Include="pictures\speakers\img.jpg" />
+    <Content Include="pictures\speakers\JBL-LINKVIEW-Front-Hero-with-google-assistant-1605x1605px.jpg" />
+    <Content Include="pictures\speakers\JBLTUNER_14042019110950_large.jpg" />
+    <Content Include="pictures\speakers\JBL_104-BT_RedDot_ProductImage_1500x986_original_1024x.jpg" />
+    <Content Include="pictures\speakers\jbl_flip5_product_photo_hero_riverteal-1605x1605-hero.png" />
+    <Content Include="pictures\speakers\JBL_Go2_Hero_Midnight_Black-1605x1605px.png" />
+    <Content Include="pictures\speakers\JBL_JR_POP_Front_Pink_x1-1605x1605px.png" />
+    <Content Include="pictures\speakers\JBL_JR_POP_Hero_Pink_x2-1605x1605px %281%29.png" />
+    <Content Include="pictures\speakers\JBL_JR_POP_Hero_Pink_x2-1605x1605px.png" />
+    <Content Include="pictures\speakers\partybox-100-2_1.jpg" />
+    <Content Include="pictures\speakers\דיבורית-גי-בי-אל-JBL-TRIP-Bluetooth-2.jpg" />
+    <Content Include="pictures\אוזניות\450BT_black_angle_01-1606x1606px.jpg" />
+    <Content Include="pictures\אוזניות\C45BT_Hero-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\E55BT_Quincy_Grey_Hero-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\JBL_AwareC_frontBack_Green_keyfeature.jpg" />
+    <Content Include="pictures\אוזניות\JBL_E35_HERO_RED_5681_FS_x2-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\JBL_Endurance-DIVE_Product-Image_Black_new-Front-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\JBL_Endurance-SPRINT_Product-Image_Red_front-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\JBL_Endurance_RUN_Product-Image_Black_Hero-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\JBL_Everest300_Black_001_dvHAMaster.jpg" />
+    <Content Include="pictures\אוזניות\JBL_FREEx_Hero_Black.jpg" />
+    <Content Include="pictures\אוזניות\JBL_Inspire 700_Black_Hero-1605X1605.jpg" />
+    <Content Include="pictures\אוזניות\JBL_Inspire100_Black_Red_Left_Right-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\JBL_Jr300_Headphones_LightBlue_Hero-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\JBL_OR100_Image_Side_02-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\JBL_OR300_Image_02-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\JBL_ReflectMini_Teal_001_dvHAMaster.jpg" />
+    <Content Include="pictures\אוזניות\JBL_Reflect_FIT_Red_Hero-1605x1605.jpg" />
+    <Content Include="pictures\אוזניות\JBL_Reflect_mini_BT016-Fin-Black-1606x1606px_dvHAMaster.jpg" />
+    <Content Include="pictures\אוזניות\JBL_REFLECT_MINI_Product Image_Hero_White.jpg" />
+    <Content Include="pictures\אוזניות\JBL_T205_Chrome_Hero-1605x1605.jpg" />
+    <Content Include="pictures\אוזניות\JBL_TUNE 225TWS Ghost_Product Image_Hero_Orange.jpg" />
+    <Content Include="pictures\אוזניות\JBL_TUNE 225TWS_Hero_Product Image_White.jpg" />
+    <Content Include="pictures\אוזניות\JBL_TUNE500BT_Product-Image_Hero_Black-1605x1605px.jpg" />
+    <Content Include="pictures\אוזניות\JBL_UA_React_Hero_Black_FS_x1.jpg" />
+    <Content Include="pictures\אוזניות\S300WHTRED_001_V2_dvHAMaster.jpg" />
+    <Content Include="pictures\צילום מסך 2021-02-05 002509.jpg" />
+    <Content Include="pictures\רמקול\71R1nO2uW0L._AC_SL1500_.jpg" />
+    <Content Include="pictures\רמקול\71uGsXYlQGL._AC_SL1500_.jpg" />
+    <Content Include="pictures\רמקול\A71N_1_201812181973746831.jpg" />
+    <Content Include="pictures\רמקול\download.png" />
+    <Content Include="pictures\רמקול\FteziyLdBGk46TKmKaThhQ-1200-80.jpg" />
+    <Content Include="pictures\רמקול\item_L_36949933_144444123.jpg" />
+    <Content Include="pictures\רמקול\JBL-LINKVIEW-Front-Hero-with-google-assistant-1605x1605px.jpg" />
+    <Content Include="pictures\רמקול\JBL-XTREME-1.jpg" />
+    <Content Include="pictures\רמקול\JBLSUB550P_BLACK_1605x1605_HERO.jpg" />
+    <Content Include="pictures\רמקול\JBL_Arena_8IC_Hero-1605x1605px.jpg" />
+    <Content Include="pictures\רמקול\JBL_BAR_9-1_GROUP_HERO_004_X4.jpg" />
+    <Content Include="pictures\רמקול\JBL_BOOMBOX_2_HERO_020_x1.jpg" />
+    <Content Include="pictures\רמקול\JBL_Clip3_Hero_Dusty_Pink-1605x1605px.jpg" />
+    <Content Include="pictures\רמקול\JBL_ControlX_Black_001_dvHAMaster-hero.jpg" />
+    <Content Include="pictures\אוזניות\JBL_Everest_710_Silver_Hero_R1-1605x1605px.jpg" />
+    <Content Include="pictures\רמקול\JBL_FLIP4_HERO_WHITE_7398_x1-1605x1605px.jpg" />
+    <Content Include="pictures\רמקול\JBL_Go2_Hero_Midnight_Black-1605x1605px.png" />
+    <Content Include="pictures\רמקול\JBL_GO_3_HERO_BLUE_0077.jpg" />
+    <Content Include="pictures\רמקול\JBL_HORIZON2_HERO_BLACK_V2_0245_x4.jpg" />
+    <Content Include="pictures\רמקול\jbl_jblpartybox100am_partybox_100_portable_bluetooth_1564586574000_1496787.jpg" />
+    <Content Include="pictures\רמקול\JBL_JR_POP_Hero_Pink_x2-1605x1605px.jpg" />
+    <Content Include="pictures\רמקול\JBL_LINK_PORTABLE_HERO_BLACK_1605x1605px.jpg" />
+    <Content Include="pictures\רמקול\JBL_Party_Box_300_HERO.jpg" />
+    <Content Include="pictures\רמקול\JBL_Stage_A130_34_Grill_14780_x1-1605x1605px.jpg" />
+    <Content Include="pictures\רמקול\JBL_Stage_A170_34_Grill_14736_x1-1605x1605px.jpg" />
+    <Content Include="pictures\רמקול\JBL_XTREME_3_HERO_STRAP_0016_x2.jpg" />
+    <Content Include="pictures\רמקול\shopify-image_0c6f7a25-f7ae-409f-a89b-df63d9c7b463_1400x.jpg" />
+    <Content Include="pictures\רמקול\studio520Cblk_001_indx_V2_dvHAMaster.jpg" />
+    <Content Include="pictures\רמקול\studio530blk_001_V2_dvHAMaster.jpg" />
+    <Content Include="pictures\רמקול\u_10204265.jpg" />
+    <Content Include="pictures\הצטרפות.jpg" />
+    <Content Include="pictures\סל קניות.jpg" />
+    <Content Include="script\JavaScript.js" />
+    <Content Include="style\StyleSheet1.css" />
+    <Content Include="video\JBL _ Tune 660NC _ Kabelloser On-Ear-Kopfhörer mit aktivem Noise-Cancelling%282%29.mp4" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <Content Include="pictures\speakers\Case.jpg_Q90.jpg_.webp" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49924</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44305/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
