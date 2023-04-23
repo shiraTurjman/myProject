@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ZdjKEzkQchWEuAQBWqbvZKYvjI1uc7qUTSObkjq5q94EpymoW4xVlpQUIvCBMYr7tImu7QGbUVaGXqI/81wvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\torge\\Desktop\\לימודים\\שנה ב'\\פרויקט\\FinalProject\\Server\\Dto\\Dto.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\torge\\Desktop\\לימודים\\שנה ב'\\פרויקט\\FinalProject\\Server\\Dto\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}
