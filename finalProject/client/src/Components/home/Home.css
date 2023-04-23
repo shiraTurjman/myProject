@@ -1,0 +1,11 @@
+.wrapper{
+    display: flex;
+    /* grid-template-columns: auto auto; */
+    margin:auto;
+    text-align: center;
+    
+}
+.column{
+    text-align: center;
+    margin: auto;
+}
