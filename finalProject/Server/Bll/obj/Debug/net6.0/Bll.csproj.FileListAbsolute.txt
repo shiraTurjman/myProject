@@ -1,0 +1,38 @@
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\bin\Debug\net6.0\Bll.deps.json
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\bin\Debug\net6.0\Bll.dll
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\bin\Debug\net6.0\Bll.pdb
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\Bll.dll
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\refint\Bll.dll
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\Bll.pdb
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\ref\Bll.dll
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\bin\Debug\net6.0\Dal.dll
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\bin\Debug\net6.0\Dal.pdb
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\Bll.csproj.CopyComplete
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\bin\Debug\net6.0\Dto.dll
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\bin\Debug\net6.0\Dto.pdb
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\bin\Debug\net6.0\Bll.deps.json
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\bin\Debug\net6.0\Bll.runtimeconfig.json
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\bin\Debug\net6.0\Bll.dll
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\bin\Debug\net6.0\Bll.pdb
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\bin\Debug\net6.0\Dal.dll
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\bin\Debug\net6.0\Dto.dll
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\bin\Debug\net6.0\Dal.pdb
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\bin\Debug\net6.0\Dto.pdb
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\Bll.csproj.CopyComplete
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\Bll.dll
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\refint\Bll.dll
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\Bll.pdb
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\Bll.genruntimeconfig.cache
+C:\Users\torge\Desktop\לימודים\שנה ב'\פרויקט\FinalProject\Server\Bll\obj\Debug\net6.0\ref\Bll.dll
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\bin\Debug\net6.0\Bll.runtimeconfig.json
+C:\Users\עדינה בהצלחה\OneDrive - סמינר מעלות בית יעקב\Desktop\Project\Server\Bll\obj\Debug\net6.0\Bll.genruntimeconfig.cache
